@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrazyEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="sound_donteventryit">Don\'t Even Try It</string>
+    <string name="sound_noooo">Nooooo!</string>
+    <string name="sound_eeeeh">Ehhhhhh!</string>
+    <string name="sound_puss">Pusssss!</string>
+    <string name="sound_shortgrowl">Growl</string>
+    <string name="sound_longgrowl">Growl - Kitty Cat</string>
+    <string name="sound_saranara">Saranara!</string>
+    <string name="sound_schmee">Schmee Schmee</string>
+    <string name="sound_hey">Hey!</string>
+    <string name="sound_thatsdisgust">That\'s Disgust!</string>
+    <string name="sound_heypussyface">Hey Pussyface!</string>
+    <string name="sound_whatthecrap">What The Crap!</string>
+    <string name="sound_imgonnabiteyou">Gonna Bite You!</string>
+    <string name="sound_noodles">Noodles?</string>
+    <string name="sound_itsdelish">It\'s Delish!</string>
+    <string name="sound_whosthekiki">Who\'s The Kiki?</string>
+    <string name="sound_usedtobepunk">Used To Be Punk</string>
+    <string name="sound_whydyoudoit">Why\'d You Do It?</string>
+    <string name="buttontext_quit">Quit</string>
+
+</resources>
