@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">CrazyEx</string>
-    <string name="action_settings">Settings</string>
     <string name="sound_donteventryit">Don\'t Even Try It</string>
     <string name="sound_noooo">Nooooo!</string>
     <string name="sound_eeeeh">Ehhhhhh!</string>
@@ -21,6 +20,5 @@
     <string name="sound_whosthekiki">Who\'s The Kiki?</string>
     <string name="sound_usedtobepunk">Used To Be Punk</string>
     <string name="sound_whydyoudoit">Why\'d You Do It?</string>
-    <string name="buttontext_quit">Quit</string>
 
 </resources>
